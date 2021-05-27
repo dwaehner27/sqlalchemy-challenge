@@ -1,6 +1,6 @@
 # SQLAlchemy Homework - Surfs Up!
 
-Results are [here]()
+Results are [here](https://github.com/dwaehner27/sqlalchemy-challenge/blob/main/README.md#results)
 
 ### Before You Begin
 
